@@ -1,4 +1,4 @@
-# EKF Localization Simulation 🚗📍
+# EKF Localization IN 2D
 
 A Python project demonstrating robot localization using the **Extended Kalman Filter (EKF)**. This project models a differential drive robot navigating in a 2D plane, estimating its position and orientation based on noisy motion and sensor measurements relative to a fixed landmark.
 
