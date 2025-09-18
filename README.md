@@ -75,8 +75,8 @@ python ekf_localization.py
 
 ##  Project Structure
 /
-├── ekf_localization.py      # Main simulation script
-└── README.md                # This file
+├── ekf_localization.py 
+└── README.md    
 
 
 ---
